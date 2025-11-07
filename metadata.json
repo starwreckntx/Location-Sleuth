@@ -1,0 +1,5 @@
+{
+  "name": "AI Location Historian",
+  "description": "Upload a photo of a location, and this app will use AI to identify it, provide its history with up-to-date information from Google Search, and read the history aloud using Text-to-Speech.",
+  "requestFramePermissions": []
+}
