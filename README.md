@@ -1,3 +1,15 @@
+```
+ _   _   _   _   _____        ___        _        ___     ____   ___    ____
+| | | | | | | | | ____|      ( _ )      | |      / _ \   / ___| |_ _|  / ___|
+| |_| | | | | | |  _|       / _ \/\     | |     | | | | | |  _   | |  | |
+|  _  | | |_| | | |___      \ (_> <     | |___  | |_| | | |_| |  | |  | |___
+|_| |_|  \___/  |_____|      \___/\/     |_____|  \___/   \____| |___|  \____|
+```
+
+> **[Hue & Logic Labs](https://www.hueandlogic.com)** · Maintained by [Joseph Byram (starwreckntx)](https://github.com/starwreckntx)
+
+---
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
